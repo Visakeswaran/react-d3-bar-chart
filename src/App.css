@@ -20,3 +20,30 @@
 .App-link {
   color: #09d3ac;
 }
+
+.graph-container {
+  width: 775px;
+  height: 244px;
+  margin: 10% auto;
+}
+
+/* Bar Chart Styles */
+
+.xAxis path,
+.xAxis line {
+  display: none;
+}
+
+.yAxis path {
+  display: none;
+}
+
+.yAxis line {
+  stroke-opacity: 0.1;
+  transform: translate(7px, 0px);
+}
+
+text {
+  font-size: 14px;
+  font-weight: 500;
+}
