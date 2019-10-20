@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Visakeswaran/react-d3-bar-chart/static/css/main.7812b9c7.chunk.css",
-    "main.js": "/Visakeswaran/react-d3-bar-chart/static/js/main.0e2b7a0c.chunk.js",
-    "main.js.map": "/Visakeswaran/react-d3-bar-chart/static/js/main.0e2b7a0c.chunk.js.map",
-    "runtime-main.js": "/Visakeswaran/react-d3-bar-chart/static/js/runtime-main.6128807a.js",
-    "runtime-main.js.map": "/Visakeswaran/react-d3-bar-chart/static/js/runtime-main.6128807a.js.map",
-    "static/js/2.3b01e4d9.chunk.js": "/Visakeswaran/react-d3-bar-chart/static/js/2.3b01e4d9.chunk.js",
-    "static/js/2.3b01e4d9.chunk.js.map": "/Visakeswaran/react-d3-bar-chart/static/js/2.3b01e4d9.chunk.js.map",
-    "index.html": "/Visakeswaran/react-d3-bar-chart/index.html",
-    "precache-manifest.872bdd21f66fc560265a396030d404e6.js": "/Visakeswaran/react-d3-bar-chart/precache-manifest.872bdd21f66fc560265a396030d404e6.js",
-    "service-worker.js": "/Visakeswaran/react-d3-bar-chart/service-worker.js",
-    "static/css/main.7812b9c7.chunk.css.map": "/Visakeswaran/react-d3-bar-chart/static/css/main.7812b9c7.chunk.css.map"
+    "main.css": "/Visakeswaran/react-d3-bar-chart/demo/static/css/main.7812b9c7.chunk.css",
+    "main.js": "/Visakeswaran/react-d3-bar-chart/demo/static/js/main.da0af07b.chunk.js",
+    "main.js.map": "/Visakeswaran/react-d3-bar-chart/demo/static/js/main.da0af07b.chunk.js.map",
+    "runtime-main.js": "/Visakeswaran/react-d3-bar-chart/demo/static/js/runtime-main.ca36685d.js",
+    "runtime-main.js.map": "/Visakeswaran/react-d3-bar-chart/demo/static/js/runtime-main.ca36685d.js.map",
+    "static/js/2.3b01e4d9.chunk.js": "/Visakeswaran/react-d3-bar-chart/demo/static/js/2.3b01e4d9.chunk.js",
+    "static/js/2.3b01e4d9.chunk.js.map": "/Visakeswaran/react-d3-bar-chart/demo/static/js/2.3b01e4d9.chunk.js.map",
+    "index.html": "/Visakeswaran/react-d3-bar-chart/demo/index.html",
+    "precache-manifest.050b4023aeae71e410762d983e478c58.js": "/Visakeswaran/react-d3-bar-chart/demo/precache-manifest.050b4023aeae71e410762d983e478c58.js",
+    "service-worker.js": "/Visakeswaran/react-d3-bar-chart/demo/service-worker.js",
+    "static/css/main.7812b9c7.chunk.css.map": "/Visakeswaran/react-d3-bar-chart/demo/static/css/main.7812b9c7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6128807a.js",
+    "static/js/runtime-main.ca36685d.js",
     "static/js/2.3b01e4d9.chunk.js",
     "static/css/main.7812b9c7.chunk.css",
-    "static/js/main.0e2b7a0c.chunk.js"
+    "static/js/main.da0af07b.chunk.js"
   ]
 }
