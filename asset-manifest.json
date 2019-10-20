@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-d3-bar-chart/static/css/main.7812b9c7.chunk.css",
-    "main.js": "/react-d3-bar-chart/static/js/main.1d80f8b7.chunk.js",
-    "main.js.map": "/react-d3-bar-chart/static/js/main.1d80f8b7.chunk.js.map",
-    "runtime-main.js": "/react-d3-bar-chart/static/js/runtime-main.1d92d15b.js",
-    "runtime-main.js.map": "/react-d3-bar-chart/static/js/runtime-main.1d92d15b.js.map",
-    "static/js/2.3b01e4d9.chunk.js": "/react-d3-bar-chart/static/js/2.3b01e4d9.chunk.js",
-    "static/js/2.3b01e4d9.chunk.js.map": "/react-d3-bar-chart/static/js/2.3b01e4d9.chunk.js.map",
-    "index.html": "/react-d3-bar-chart/index.html",
-    "precache-manifest.60a5139cc3165fd4fe5ef20d3d7391f7.js": "/react-d3-bar-chart/precache-manifest.60a5139cc3165fd4fe5ef20d3d7391f7.js",
-    "service-worker.js": "/react-d3-bar-chart/service-worker.js",
-    "static/css/main.7812b9c7.chunk.css.map": "/react-d3-bar-chart/static/css/main.7812b9c7.chunk.css.map"
+    "main.css": "/Visakeswaran/react-d3-bar-chart/static/css/main.7812b9c7.chunk.css",
+    "main.js": "/Visakeswaran/react-d3-bar-chart/static/js/main.0e2b7a0c.chunk.js",
+    "main.js.map": "/Visakeswaran/react-d3-bar-chart/static/js/main.0e2b7a0c.chunk.js.map",
+    "runtime-main.js": "/Visakeswaran/react-d3-bar-chart/static/js/runtime-main.6128807a.js",
+    "runtime-main.js.map": "/Visakeswaran/react-d3-bar-chart/static/js/runtime-main.6128807a.js.map",
+    "static/js/2.3b01e4d9.chunk.js": "/Visakeswaran/react-d3-bar-chart/static/js/2.3b01e4d9.chunk.js",
+    "static/js/2.3b01e4d9.chunk.js.map": "/Visakeswaran/react-d3-bar-chart/static/js/2.3b01e4d9.chunk.js.map",
+    "index.html": "/Visakeswaran/react-d3-bar-chart/index.html",
+    "precache-manifest.872bdd21f66fc560265a396030d404e6.js": "/Visakeswaran/react-d3-bar-chart/precache-manifest.872bdd21f66fc560265a396030d404e6.js",
+    "service-worker.js": "/Visakeswaran/react-d3-bar-chart/service-worker.js",
+    "static/css/main.7812b9c7.chunk.css.map": "/Visakeswaran/react-d3-bar-chart/static/css/main.7812b9c7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d92d15b.js",
+    "static/js/runtime-main.6128807a.js",
     "static/js/2.3b01e4d9.chunk.js",
     "static/css/main.7812b9c7.chunk.css",
-    "static/js/main.1d80f8b7.chunk.js"
+    "static/js/main.0e2b7a0c.chunk.js"
   ]
 }
